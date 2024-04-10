@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MyNewProject</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_box2">BoxActivity2</string>
+    <string name="title_activity_scroll2">ScrollActivity2</string>
+    <string name="title_activity_card2">CardActivity2</string>
+    <string name="title_activity_top_bar2">TopBarActivity2</string>
+    <string name="title_activity_whats_app2">WhatsAppActivity2</string>
+    <string name="title_activity_indicators2">IndicatorsActivity2</string>
+    <string name="title_activity_bottom_bar_app2">BottomBarAppActivity2</string>
+    <string name="title_activity_test_app2">TestAppActivity2</string>
+    <string name="title_activity_truy_main2">TruyMainActivity2</string>
+    <string name="title_activity_travel_main2">TravelMainActivity2</string>
+    <string name="title_activity_travel_log_main2">TravelLogMainActivity2</string>
+</resources>
